@@ -18,7 +18,7 @@ run **mertonDD.m**:
 run **computeDD.do**
 
 
-## Step 4: Compute Excess Bond Premium based on the DD measure
+## Step 4: Compute Excess Bond Premium Based on the DD measure
 
 run **EBP.do**
 - the constuction refers to Gilchrist and Zakrajšek (2012)
