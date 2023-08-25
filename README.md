@@ -1,6 +1,6 @@
 # China-Excess-Bond-Premium
 
-## Step 1. Retrieve Market Data at Stock Level from WIND
+## Step 1. Retrieve Market Data at Stock Level from WIND Excel API
 
 run **preparse_MertonDD.do**: 
 - read stock prices and market valuation
